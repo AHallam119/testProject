@@ -12,7 +12,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Alice')
+    print_hi('Tom and Alice')
     for x in range(10):
         print("{0} is {1}".format(x, "even" if (x % 2) == 0 else "odd"))
 
